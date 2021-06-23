@@ -8,6 +8,8 @@ Python libraries used for this project include:
 - Numpy
 - Seaborn
 - Matplotlib.pyplot
+- Scipy
+- Statsmodels.stats
 - Sklearn
 
 This file includes 
